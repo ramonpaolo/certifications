@@ -38,6 +38,8 @@ Aqui estão as certificações que eu tenho foco em tirar.
     - [Mongo DB Sharding Basics in 5 Minutes](https://www.youtube.com/watch?v=ooF021_Kbck)
     - [A Diferença entre Replicação, Sharding e Clustering](https://www.youtube.com/watch?v=wgNVF9dCONE)
 - Documentação Oficial
+    - [Guia do Exame](https://university.mongodb.com/exam/guide)
+    - [MongoDB Developer Course](https://university.mongodb.com/learning_paths/developer)
 - Eventos do MongoDB
 - Udemy
 
