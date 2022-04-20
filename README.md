@@ -30,7 +30,6 @@ Aqui estão as certificações que eu tenho foco em tirar.
     - [Linux Operating System - Crash Course for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA)
 - Documentação:
     - [Documentação Administrador Debian](https://www.debian.org/doc/manuals/debian-handbook/)
-    - [Documentação Administrador Debian](https://www.debian.org/doc/manuals/debian-handbook/)
 - Livro: <strong>"Como o Linux Funciona? O que Todo Super Usuário Deveria Saber"</strong>
 
 ## MongoDB Developer
