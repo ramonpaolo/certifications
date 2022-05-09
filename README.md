@@ -2,7 +2,7 @@
 Aqui estão as certificações que eu tenho foco em tirar.
 
 # 2022
-## AWS Cloud Practitioner - ✓
+## [AWS Cloud Practitioner](https://www.credly.com/badges/c07da8a2-44ea-4b79-aec1-f5dba3bdcd51/public_url) - ✓
 - Documentação da própria AWS mais que necessário.
 - Guia do Exame, disponibilizado pela própria AWS: [PDF Guia](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 - Exemplo de perguntas, disponibilizado pela própria AWS: [PDF Questões](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
